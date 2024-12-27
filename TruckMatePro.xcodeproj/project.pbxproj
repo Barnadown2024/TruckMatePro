@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		34CB1C512D1F608F00D28524 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 34CB1C382D1F608E00D28524 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 34CB1C3F2D1F608E00D28524;
+			remoteInfo = TruckMatePro;
+		};
+		34CB1C5B2D1F608F00D28524 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 34CB1C382D1F608E00D28524 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 34CB1C3F2D1F608E00D28524;
+			remoteInfo = TruckMatePro;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		34CB1C402D1F608E00D28524 /* TruckMatePro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TruckMatePro.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		34CB1C502D1F608F00D28524 /* TruckMateProTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TruckMateProTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		34CB1C5A2D1F608F00D28524 /* TruckMateProUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TruckMateProUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		34CB1C422D1F608E00D28524 /* TruckMatePro */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TruckMatePro;
+			sourceTree = "<group>";
+		};
+		34CB1C532D1F608F00D28524 /* TruckMateProTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TruckMateProTests;
+			sourceTree = "<group>";
+		};
+		34CB1C5D2D1F608F00D28524 /* TruckMateProUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TruckMateProUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		34CB1C3D2D1F608E00D28524 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34CB1C4D2D1F608F00D28524 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34CB1C572D1F608F00D28524 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		34CB1C372D1F608E00D28524 = {
+			isa = PBXGroup;
+			children = (
+				34CB1C422D1F608E00D28524 /* TruckMatePro */,
+				34CB1C532D1F608F00D28524 /* TruckMateProTests */,
+				34CB1C5D2D1F608F00D28524 /* TruckMateProUITests */,
+				34CB1C412D1F608E00D28524 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		34CB1C412D1F608E00D28524 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				34CB1C402D1F608E00D28524 /* TruckMatePro.app */,
+				34CB1C502D1F608F00D28524 /* TruckMateProTests.xctest */,
+				34CB1C5A2D1F608F00D28524 /* TruckMateProUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		34CB1C3F2D1F608E00D28524 /* TruckMatePro */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 34CB1C642D1F608F00D28524 /* Build configuration list for PBXNativeTarget "TruckMatePro" */;
+			buildPhases = (
+				34CB1C3C2D1F608E00D28524 /* Sources */,
+				34CB1C3D2D1F608E00D28524 /* Frameworks */,
+				34CB1C3E2D1F608E00D28524 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				34CB1C422D1F608E00D28524 /* TruckMatePro */,
+			);
+			name = TruckMatePro;
+			packageProductDependencies = (
+			);
+			productName = TruckMatePro;
+			productReference = 34CB1C402D1F608E00D28524 /* TruckMatePro.app */;
+			productType = "com.apple.product-type.application";
+		};
+		34CB1C4F2D1F608F00D28524 /* TruckMateProTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 34CB1C672D1F608F00D28524 /* Build configuration list for PBXNativeTarget "TruckMateProTests" */;
+			buildPhases = (
+				34CB1C4C2D1F608F00D28524 /* Sources */,
+				34CB1C4D2D1F608F00D28524 /* Frameworks */,
+				34CB1C4E2D1F608F00D28524 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				34CB1C522D1F608F00D28524 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				34CB1C532D1F608F00D28524 /* TruckMateProTests */,
+			);
+			name = TruckMateProTests;
+			packageProductDependencies = (
+			);
+			productName = TruckMateProTests;
+			productReference = 34CB1C502D1F608F00D28524 /* TruckMateProTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		34CB1C592D1F608F00D28524 /* TruckMateProUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 34CB1C6A2D1F608F00D28524 /* Build configuration list for PBXNativeTarget "TruckMateProUITests" */;
+			buildPhases = (
+				34CB1C562D1F608F00D28524 /* Sources */,
+				34CB1C572D1F608F00D28524 /* Frameworks */,
+				34CB1C582D1F608F00D28524 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				34CB1C5C2D1F608F00D28524 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				34CB1C5D2D1F608F00D28524 /* TruckMateProUITests */,
+			);
+			name = TruckMateProUITests;
+			packageProductDependencies = (
+			);
+			productName = TruckMateProUITests;
+			productReference = 34CB1C5A2D1F608F00D28524 /* TruckMateProUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		34CB1C382D1F608E00D28524 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					34CB1C3F2D1F608E00D28524 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					34CB1C4F2D1F608F00D28524 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 34CB1C3F2D1F608E00D28524;
+					};
+					34CB1C592D1F608F00D28524 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 34CB1C3F2D1F608E00D28524;
+					};
+				};
+			};
+			buildConfigurationList = 34CB1C3B2D1F608E00D28524 /* Build configuration list for PBXProject "TruckMatePro" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 34CB1C372D1F608E00D28524;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 34CB1C412D1F608E00D28524 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				34CB1C3F2D1F608E00D28524 /* TruckMatePro */,
+				34CB1C4F2D1F608F00D28524 /* TruckMateProTests */,
+				34CB1C592D1F608F00D28524 /* TruckMateProUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		34CB1C3E2D1F608E00D28524 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34CB1C4E2D1F608F00D28524 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34CB1C582D1F608F00D28524 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		34CB1C3C2D1F608E00D28524 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34CB1C4C2D1F608F00D28524 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		34CB1C562D1F608F00D28524 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		34CB1C522D1F608F00D28524 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 34CB1C3F2D1F608E00D28524 /* TruckMatePro */;
+			targetProxy = 34CB1C512D1F608F00D28524 /* PBXContainerItemProxy */;
+		};
+		34CB1C5C2D1F608F00D28524 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 34CB1C3F2D1F608E00D28524 /* TruckMatePro */;
+			targetProxy = 34CB1C5B2D1F608F00D28524 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		34CB1C622D1F608F00D28524 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		34CB1C632D1F608F00D28524 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		34CB1C652D1F608F00D28524 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TruckMatePro/Preview Content\"";
+				DEVELOPMENT_TEAM = V955UP3Y27;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ie.truckerselite.TruckMatePro;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		34CB1C662D1F608F00D28524 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TruckMatePro/Preview Content\"";
+				DEVELOPMENT_TEAM = V955UP3Y27;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ie.truckerselite.TruckMatePro;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		34CB1C682D1F608F00D28524 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V955UP3Y27;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ie.truckerselite.TruckMateProTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TruckMatePro.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TruckMatePro";
+			};
+			name = Debug;
+		};
+		34CB1C692D1F608F00D28524 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V955UP3Y27;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ie.truckerselite.TruckMateProTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TruckMatePro.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TruckMatePro";
+			};
+			name = Release;
+		};
+		34CB1C6B2D1F608F00D28524 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V955UP3Y27;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ie.truckerselite.TruckMateProUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TruckMatePro;
+			};
+			name = Debug;
+		};
+		34CB1C6C2D1F608F00D28524 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V955UP3Y27;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ie.truckerselite.TruckMateProUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TruckMatePro;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		34CB1C3B2D1F608E00D28524 /* Build configuration list for PBXProject "TruckMatePro" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34CB1C622D1F608F00D28524 /* Debug */,
+				34CB1C632D1F608F00D28524 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		34CB1C642D1F608F00D28524 /* Build configuration list for PBXNativeTarget "TruckMatePro" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34CB1C652D1F608F00D28524 /* Debug */,
+				34CB1C662D1F608F00D28524 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		34CB1C672D1F608F00D28524 /* Build configuration list for PBXNativeTarget "TruckMateProTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34CB1C682D1F608F00D28524 /* Debug */,
+				34CB1C692D1F608F00D28524 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		34CB1C6A2D1F608F00D28524 /* Build configuration list for PBXNativeTarget "TruckMateProUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				34CB1C6B2D1F608F00D28524 /* Debug */,
+				34CB1C6C2D1F608F00D28524 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 34CB1C382D1F608E00D28524 /* Project object */;
+}
